@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T23:22:17.294Z" agent="5.0 (X11)" etag="qp2aYPoAOqtGIB4zPO3z" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T23:23:59.832Z" agent="5.0 (X11)" etag="KJnkSWxhTeR20iEI5BdV" version="15.2.9" type="github">
   <diagram id="J7Mrwehd_0Bz9LHGGrBG" name="Page-1">
     <mxGraphModel dx="796" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="100" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f6QY6tBFN9vrhc-_EUVW-5" value="Página web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f6QY6tBFN9vrhc-_EUVW-6" value="Design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="70" height="30" as="geometry" />
+          <mxGeometry x="380" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f6QY6tBFN9vrhc-_EUVW-8" value="Cadastro de produto e empresas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
